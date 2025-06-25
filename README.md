@@ -1,4 +1,4 @@
-# <center>Bar de Tapas Alcalá</center>:smirk:
+# <center>Bar de Tapas Alcalá</center>
 
 En este proyecto, lo que hemos hecho es un **SIMULACRO DE EXAMEN**, donde hemos creado una web de un bar de tapas, en el cual hemos utilizado las siguientes tecnologias:
 
